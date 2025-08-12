@@ -1,5 +1,4 @@
-// Q :- Anti-clockwise Spiral Traversal of Matrix
-
+//QUESTION : Anti-clockwise Spiral Traversal.
 
 #include<bits/stdc++.h>
 
